@@ -1,16 +1,20 @@
-#Module 2 VBA Challenge 
-Sandy Whitley 9/27/20
+## Module 2 VBA Challenge
 
 ### Overview of Project
 This goal of this project was to refactor a VBA script to run more efficiently and quickly for a stock ticker performance summary. 
 
 ### Results
 The refactored VBA script and original VBA script produced identical correct outputs however the refactored VBA script ran 75%-76% more quickly than the original script.
-![VBA Script Run Time Analysis](/resources/VBA_Challenge_Perf_Overview.png)
-![Original 2017 VBA Script Run Time](/resources/VBA_Challenge_Before_2017.png)
-![Refactored 2017 VBA Script Run Time](/resources/VBA_Challenge_After_2017.png)
-![Original 2018 VBA Script Run Time](/resources/VBA_Challenge_Before_2018.png)
-![Refactored 2018 VBA Script Run Time](/resources/VBA_Challenge_After_2017.png)
+
+![VBA Script Run Time Analysis](/Resources/VBA_Challenge_Perf_Overview.png)
+
+![Original 2017 VBA Script Run Time](/Resources/VBA_Challenge_Before_2017.png)
+
+![Refactored 2017 VBA Script Run Time](/Resources/VBA_Challenge_After_2017.png)
+
+![Original 2018 VBA Script Run Time](/Resources/VBA_Challenge_Before_2018.png)
+
+![Refactored 2018 VBA Script Run Time](/Resources/VBA_Challenge_After_2018.png)
 
 ### Summary
 The data consisted of 2 separate worksheets, 2017 and 2018, containing a daily stock performance information including the ticker symbol, date, open price, high price, low price, close price, 
